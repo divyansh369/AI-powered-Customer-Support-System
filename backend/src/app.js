@@ -11,7 +11,7 @@ const app = new Hono();
 app.use(
   "*",
   cors({
-    origin: "http://localhost:5173",
+    origin: "*",
     allowMethods: ["GET", "POST", "DELETE", "OPTIONS"],
     allowHeaders: ["Content-Type"],
   }),
