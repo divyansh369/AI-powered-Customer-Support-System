@@ -6,7 +6,7 @@
 
 A high-performance, full-stack customer support chat application featuring a specialized **Multi-Agent Architecture**. The system intelligently routes user queries to dedicated agents (Support, Order, or Billing) that interact with real-time database tools to provide accurate, context-aware assistance.
 
-# Live - https://ai-powered-customer-support-system-nti6.onrender.com
+Live - [https://ai-powered-customer-support-system-nti6.onrender.com](https://ai-powered-customer-support-system.vercel.app/)
 ---
 
 ## 🚀 Key Features
